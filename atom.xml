@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://springzilan.github.io</id>
+    <title>Spring</title>
+    <updated>2019-10-02T14:07:21.091Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://springzilan.github.io"/>
+    <link rel="self" href="https://springzilan.github.io/atom.xml"/>
+    <subtitle>一只小菜鸡走过的路</subtitle>
+    <logo>https://springzilan.github.io/images/avatar.png</logo>
+    <icon>https://springzilan.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2019, Spring</rights>
+    <entry>
+        <title type="html"><![CDATA[没有标题]]></title>
+        <id>https://springzilan.github.io/post/mei-you-biao-ti</id>
+        <link href="https://springzilan.github.io/post/mei-you-biao-ti">
+        </link>
+        <updated>2019-09-10T03:50:18.000Z</updated>
+        <content type="html"><![CDATA[<p>班里让发电话号码，我担心刘镇东没看到消息，就替他也发了一份，今天担心颜磊没有看到消息，就又和他说了一句。然后他说下次，不让我帮刘镇东做他的事了。我看到这个就哭了起来。我解释说是担心刘镇东没有看到消息，有时候他连我的消息都看不到。我也知道帮刘镇东做他自己该做的事没什么必要。所以这一学期第一次还是第二次，我没有帮刘镇东做事，而是说，你应该怎么样，你去做，他确实照着做了。我也没觉得有多高兴，反正没什么感觉。</p>
+<p>刘镇东确实很忙，才会看不到我的消息的。因为关联，我会发现他没有点开我的消息。之前他关联了我，尽管从屏幕上就能知道说了什么，可我还要传达一种我看到消息的信息给刘镇东，然后就点开消息，不过大概刘镇东也不会关注关联QQ号上面有没有消息吧。</p>
+<p>这几天，我们确实经常出现矛盾，我不知道怎么办。他自己起床不好吗？想什么时候起就什么时候起，我也不用管什么时候叫他，然后要想，这个点叫他，他会睡得很晚吗？他起来之后会瞌睡吗？有时候叫了一遍，我以为他醒了，可是一条消息等了很久都没回，不得再叫一遍？是我很有耐心吗？我会说，再怎么，我就不怎么了。我想过不和他一起吃饭，不和他一起一起去上课，我一个人也可以过得很好，我想像高中那样，觉得两个人一起走会很慢，然后就一个人去吃饭，去宿舍，但又想到，刘镇东说不嫌弃我傻，不嫌弃我笨，我又有什么理由嫌弃他呢？</p>
+<p>而高中的我，大概是乐意和席洪莲一起走的吧，她会很快，会有很多方法，大概和她在一起会有很多好处，会很高兴两个人一起的。</p>
+<p>而刘镇东真的不嫌弃我吗?不知道他的不嫌弃是指什么？难道是在教我一点点东西，然后我问了很傻的问题就骂我？凶我？说我是傻子吗？难道就是经常被我惹生气，然后还一时半会哄不好吗？</p>
+<p>确实，刘镇东告诉我很多道理，</p>
+<p>不知道我收获了什么，不知道我在这段感情中扮演着什么样的身份，我可能已经丢掉了之前的那个崔子兰了，</p>
+<p>我什么都不知道，就这样吧，写上去，刘镇东看得到就看，看不到就算了。尽管之前我分享过我的日记的一部分给刘镇东，可是那又有什么用呢？告诉别人也是需要勇气的呀。就让我写的东西自生自灭吧。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一次写完作业并且弄到Github]]></title>
+        <id>https://springzilan.github.io/post/di-yi-ci-xie-wan-zuo-de-bing-qie-nong-dao-github</id>
+        <link href="https://springzilan.github.io/post/di-yi-ci-xie-wan-zuo-de-bing-qie-nong-dao-github">
+        </link>
+        <updated>2019-09-06T14:49:42.000Z</updated>
+        <content type="html"><![CDATA[<p>今天把老师布置的作业写完了，是让自己写一个大学的介绍网页。看起来挺简单的，虽然有些是自己复制粘贴之前写的代码(好吧，大部分也是抄的)，不过总算是写完了，然后为了纪念我的成就，我就打算把代码通过WebStorm直接上传到github,因为觉得那样就是点几下的事情就好了，然后晚上就开始了我的大业。因为界面都是英语，也没看出什么名堂，就直接百度搜索了一下：WebStorm怎么上传到github，大概是因为昨天东东说让我又不知道的什么然后自己百度，所以我没有问他吧。就在那看，然后看了第一个，就进行了一些设置呀，配置了github相关参数，都是我之前没弄过的，反正照着做呗。挺清楚明白的。可是接下来就发生了意外，我创建了一个仓库，可是按照他说的，我试了，不行，仓库里面空空的，继续看下一个回答，嗯？他们有点不一样，这次是share。反正看了三个都不行，我就打电话问东东了。他就是既凶了我，也给我讲了怎么做。最后我是迷迷糊糊地成功了。</p>
+<p>我觉得接下来我可以自己尝试着写一下步骤，毕竟可以给以后的自己留点资料。(笑哭)</p>
+<p>配置完成之后（配置过程就不写了吧，感觉有点多。不过简单地写一点）</p>
+<p>打开WebStorm — File —Settings —搜索github — 填进去你的账号和密码 — test —搜索git，在最上面写上git.exe的位置 — test —接下来用命令行生成一个ssh key，还要找到一个文件夹，里面一个文件用记事本打开， 然后把它们弄到github的setting里面一个带有这个的地方，新建一个ssh key(写的很乱，时间有点紧)</p>
+<hr>
+<p>接下来就是臭东东教我的了：(我已经忘了，要看着软件一步一步地写)</p>
+<p>1.菜单栏VCS —Git — Clone — 链接就复制仓库的链接 —下面那个文件夹，文件名什么的都要新建（我也不太知道这是什么情况）— VSC —  Commit — 写一下Message，不过Author那一栏我也不知道写什么，显示的大概意思就是我写的名字在哪里面？找不到，就不写了。—单击下面Commit — 菜单栏VCS — Git — push。</p>
+<p>我记得就是那样了。</p>
+<p>看见了我的三个仓库，后面都有一个电位图(是这个名字吗？就是检测心跳的仪器上面显示的图)，我希望他们可以很活跃地来回起伏，不会变得平的那种，加油啊。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我和东东]]></title>
+        <id>https://springzilan.github.io/post/wo-he-dong-dong</id>
+        <link href="https://springzilan.github.io/post/wo-he-dong-dong">
+        </link>
+        <updated>2019-07-30T13:44:43.000Z</updated>
+        <content type="html"><![CDATA[<p>虽然这些天会写一些东西，但好久没写东西发博客了，尽管我的博客写的不好，但好在看得人不多，估计只有东东吧。其实我也不知道写些什么，今天确实学了新东西，等会总结一下。突然想到上一次，因为答应了东东和他一起去他家的，然后又打算不去，反正不知道我们怎么就觉得很累了，大概是有些坏情绪一直积攒着，没有发泄出来吧。我感觉在过去，被质疑，被否定，被咋咋，就是觉得，在刘镇东面前，我做的事并不是很好，也可能是他没有管理好自己的情绪，让我错把将那些烦心事对他的消极影响当做我让他生气。尽管我脾气很好，不过，我在家确实经常发脾气，我对家人的态度并不是很好，但也还是没啥事的。扯得有点远。</p>
+<p>说一下，我想到的话：以后不要想着分手，我们一起解决问题哦。</p>
+<p>我会给我们两个更多自己的时间，毕竟我们不只有对方，还有我们自己的生活，自己的学习，自己的朋友。</p>
+<p>希望在新的一学期，我不会再挂课，我的学习可以更好。</p>
+<p>我们两个也会变得更加优秀。(・ω&lt;) てへぺろ爱你 飞吻 么么哒(其实后面这些字是一个表情)</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[24天学习高数计划]]></title>
+        <id>https://springzilan.github.io/post/24-tian-xue-xi-gao-shu-ji-hua</id>
+        <link href="https://springzilan.github.io/post/24-tian-xue-xi-gao-shu-ji-hua">
+        </link>
+        <updated>2019-07-13T14:54:58.000Z</updated>
+        <content type="html"><![CDATA[<p>因为高数挂科，现在的我，只好重新学习高数了。上学期，高数是96个学时，所以我决定也要学习96个小时的高数，所以每天学习高数24小时。从7月14开始。</p>
+<p>原谅我自己没有从今天开始，呃，有些拖延。每天必须学够4个小时呀。高效一点。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一步]]></title>
+        <id>https://springzilan.github.io/post/di-yi-bu</id>
+        <link href="https://springzilan.github.io/post/di-yi-bu">
+        </link>
+        <updated>2019-06-17T14:36:36.000Z</updated>
+        <content type="html"><![CDATA[<p>​		雀氏纸尿裤，天才第一步。哈哈。</p>
+<p>​		我的小可爱给我弄好了我的第一个网站，尽管我最近这段时间可能不怎么写东西，但还是写下了这一篇文章。</p>
+<p>​		接下来可以写一下我家大宝贝今天教给我的一句话：由俭入奢易，由奢入俭难。尽管我有很多我想要的东西，嗯，我也可以买（刘镇东原话），但就是不能买，不能太放纵自己。</p>
+<p>​		马上就要考试了，记得好好复习啊</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://springzilan.github.io/post/hello-gridea</id>
+        <link href="https://springzilan.github.io/post/hello-gridea">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>

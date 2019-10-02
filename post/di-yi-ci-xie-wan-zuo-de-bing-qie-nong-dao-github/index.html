@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>第一次写完作业并且弄到Github | Spring</title>
+<meta name="description" content="一只小菜鸡走过的路">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://springzilan.github.io/favicon.ico?v=1570025239139">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="https://springzilan.github.io/styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+
+
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://springzilan.github.io">
+        <img src="https://springzilan.github.io/images/avatar.png?v=1570025239139" class="site-logo">
+        <h1 class="site-title">Spring</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+        
+          <a href="/friends" class="site-nav">
+            小伙伴
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      一只小菜鸡走过的路
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://springzilan.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">第一次写完作业并且弄到Github</h2>
+            <div class="post-date">2019-09-06</div>
+            
+              <div class="feature-container" style="background-image: url('https://springzilan.github.io/post-images/di-yi-ci-xie-wan-zuo-de-bing-qie-nong-dao-github.png')">
+              </div>
+            
+            <div class="post-content">
+              <p>今天把老师布置的作业写完了，是让自己写一个大学的介绍网页。看起来挺简单的，虽然有些是自己复制粘贴之前写的代码(好吧，大部分也是抄的)，不过总算是写完了，然后为了纪念我的成就，我就打算把代码通过WebStorm直接上传到github,因为觉得那样就是点几下的事情就好了，然后晚上就开始了我的大业。因为界面都是英语，也没看出什么名堂，就直接百度搜索了一下：WebStorm怎么上传到github，大概是因为昨天东东说让我又不知道的什么然后自己百度，所以我没有问他吧。就在那看，然后看了第一个，就进行了一些设置呀，配置了github相关参数，都是我之前没弄过的，反正照着做呗。挺清楚明白的。可是接下来就发生了意外，我创建了一个仓库，可是按照他说的，我试了，不行，仓库里面空空的，继续看下一个回答，嗯？他们有点不一样，这次是share。反正看了三个都不行，我就打电话问东东了。他就是既凶了我，也给我讲了怎么做。最后我是迷迷糊糊地成功了。</p>
+<p>我觉得接下来我可以自己尝试着写一下步骤，毕竟可以给以后的自己留点资料。(笑哭)</p>
+<p>配置完成之后（配置过程就不写了吧，感觉有点多。不过简单地写一点）</p>
+<p>打开WebStorm — File —Settings —搜索github — 填进去你的账号和密码 — test —搜索git，在最上面写上git.exe的位置 — test —接下来用命令行生成一个ssh key，还要找到一个文件夹，里面一个文件用记事本打开， 然后把它们弄到github的setting里面一个带有这个的地方，新建一个ssh key(写的很乱，时间有点紧)</p>
+<hr>
+<p>接下来就是臭东东教我的了：(我已经忘了，要看着软件一步一步地写)</p>
+<p>1.菜单栏VCS —Git — Clone — 链接就复制仓库的链接 —下面那个文件夹，文件名什么的都要新建（我也不太知道这是什么情况）— VSC —  Commit — 写一下Message，不过Author那一栏我也不知道写什么，显示的大概意思就是我写的名字在哪里面？找不到，就不写了。—单击下面Commit — 菜单栏VCS — Git — push。</p>
+<p>我记得就是那样了。</p>
+<p>看见了我的三个仓库，后面都有一个电位图(是这个名字吗？就是检测心跳的仪器上面显示的图)，我希望他们可以很活跃地来回起伏，不会变得平的那种，加油啊。</p>
+
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://springzilan.github.io/tag/y6njuCHxj" class="tag">
+                    Study
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://springzilan.github.io/post/wo-he-dong-dong">
+                  <h3 class="post-title">
+                    我和东东
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+<script type="application/javascript">
+
+AOS.init();
+
+hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'e1604181ab9fdaad2563',
+        clientSecret: '7919a5ec8309711bc8ba88634980e93594343183',
+        repo: 'springzilan.github.io',
+        owner: 'springzilan',
+        admin: ['springzilan'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>
