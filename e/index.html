@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Show</title>
+    <style>
+        .chose{
+            text-align: center;
+            margin: auto;
+            font-family: "Cambria Math";
+            font-size: larger;
+        }
+        .sm{
+            background-color: burlywood;
+            font-size: 25px;
+            border-radius: 12px;
+            border: 2px solid burlywood;
+            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+        }
+        .sm:hover{
+            background-color: white;
+        }
+        .te{
+            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+            font-size: 25px;
+            border-radius: 12px;
+        }
+        body{
+            background-color: antiquewhite;
+            font-size: 22px;
+            border: white;
+        }
+    </style>
+</head>
+<body>
+<div class="chose">
+<h1>20181620310166 Cuizilan</h1><br><br>
+<form name="input" action="index.jsp" method="post">
+    <input type="text" name="words" class="te"> <br><br>
+    <input type="radio" name="styles" value="big" >Lower-case<br>
+    <input type="radio" name="styles" value="small">Upper-case<br>
+    <input type="radio" name="styles" value="no-change" checked="checked">No change<br><br><br>
+    <input type="submit" class="sm" value="Submit">
+</form>
+</div>
+</body>
+</html>
